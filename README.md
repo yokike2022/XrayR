@@ -83,3 +83,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/Huac233/XrayR-release/master/i
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Huac233/XrayR.svg)](https://starchart.cc/Huac233/XrayR)
+
