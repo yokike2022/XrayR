@@ -50,10 +50,12 @@ A Xray backend framework that can easily support many panels.
 | [ProxyPanel](https://github.com/ProxyPanel/ProxyPanel) | √     | √      | √                              |
 
 ## 软件安装
+
 ### 一键安装
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/Huac233/XrayR-release/master/install.sh)
 ```
+
 ### 使用Docker部署软件
 [Docker部署教程](https://crackair.gitbook.io/Huac233/xrayr-xia-zai-he-an-zhuang/install/docker)
 
@@ -83,4 +85,3 @@ bash <(curl -Ls https://raw.githubusercontent.com/Huac233/XrayR-release/master/i
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Huac233/XrayR.svg)](https://starchart.cc/Huac233/XrayR)
-
